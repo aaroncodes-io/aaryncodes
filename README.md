@@ -1,6 +1,4 @@
-<h1>Greetings👋</h1>
-
-💻Front End Dev
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&width=435&lines=Front+End+Developer;Learning+UX%2FUI+Design;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
 ### Languages and Tools
 
